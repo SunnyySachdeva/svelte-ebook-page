@@ -1,7 +1,7 @@
 <script>
     import Button from "$lib/components/Button.svelte";
     import TwitterIcon from "$assets/icons/twitter.webp"
-    import ChevronArrow from "$assets/icons/Chevron-down.svg"
+    import ChevronArrow from "$assets/icons/chevron-down.svg"
 const faqs = [
   {
     question: "What will I learn from this ebook?",
