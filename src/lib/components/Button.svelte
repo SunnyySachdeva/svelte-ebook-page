@@ -1,5 +1,5 @@
 <script lang="ts">
-    import {loadStripe} from "@stripe/Stripe-js";
+    import {loadStripe} from "@stripe/stripe-js";
     import {PUBLIC_STRIPE_KEY} from "$env/static/public";
     import {goto} from "$app/navigation";
 
